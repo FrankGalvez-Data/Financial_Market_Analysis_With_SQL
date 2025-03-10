@@ -1,0 +1,146 @@
+symbol,name,sector, ebitda , sector_avg_ebitda ,ebitda_rank
+TJX,TJX Companies Inc.,Consumer Discretionary," $4,600,216,000 "," $3,575,536,195 ",18
+CCL,Carnival Corp.,Consumer Discretionary," $4,711,000,000 "," $3,575,536,195 ",17
+PCLN,Priceline.com Inc,Consumer Discretionary," $4,803,487,000 "," $3,575,536,195 ",16
+NKE,Nike,Consumer Discretionary," $5,162,000,000 "," $3,575,536,195 ",15
+FOXA,Twenty-First Century Fox Class A,Consumer Discretionary," $5,280,000,000 "," $3,575,536,195 ",14
+FOX,Twenty-First Century Fox Class B,Consumer Discretionary," $5,280,000,000 "," $3,575,536,195 ",14
+VIAB,Viacom Inc.,Consumer Discretionary," $5,600,000,000 "," $3,575,536,195 ",13
+TGT,Target Corp.,Consumer Discretionary," $7,105,000,000 "," $3,575,536,195 ",12
+SBUX,Starbucks Corp.,Consumer Discretionary," $7,361,500,000 "," $3,575,536,195 ",11
+TWX,Time Warner Inc.,Consumer Discretionary," $7,671,000,000 "," $3,575,536,195 ",10
+LOW,Lowe's Cos.,Consumer Discretionary," $7,858,000,000 "," $3,575,536,195 ",9
+F,Ford Motor,Consumer Discretionary," $9,281,000,000 "," $3,575,536,195 ",8
+MCD,McDonald's Corp.,Consumer Discretionary," $10,515,400,000 "," $3,575,536,195 ",7
+DIS,The Walt Disney Company,Consumer Discretionary," $12,544,000,000 "," $3,575,536,195 ",6
+CHTR,Charter Communications,Consumer Discretionary," $14,694,000,000 "," $3,575,536,195 ",5
+AMZN,Amazon.com Inc,Consumer Discretionary," $16,132,000,000 "," $3,575,536,195 ",4
+HD,Home Depot,Consumer Discretionary," $16,513,000,000 "," $3,575,536,195 ",3
+GM,General Motors,Consumer Discretionary," $23,541,000,000 "," $3,575,536,195 ",2
+CMCSA,Comcast Corp.,Consumer Discretionary," $28,675,000,000 "," $3,575,536,195 ",1
+KR,Kroger Co.,Consumer Staples," $5,342,000,000 "," $5,063,167,606 ",10
+COST,Costco Wholesale Corp.,Consumer Staples," $5,679,000,000 "," $5,063,167,606 ",9
+WBA,Walgreens Boots Alliance,Consumer Staples," $7,083,000,000 "," $5,063,167,606 ",8
+KHC,Kraft Heinz Co,Consumer Staples," $7,832,000,000 "," $5,063,167,606 ",7
+KO,Coca-Cola Company (The),Consumer Staples," $8,589,000,000 "," $5,063,167,606 ",6
+MO,Altria Group Inc,Consumer Staples," $10,773,000,000 "," $5,063,167,606 ",5
+CVS,CVS Health,Consumer Staples," $11,704,000,000 "," $5,063,167,606 ",4
+PM,Philip Morris International,Consumer Staples," $11,802,000,000 "," $5,063,167,606 ",3
+PG,Procter & Gamble,Consumer Staples," $17,249,000,000 "," $5,063,167,606 ",2
+WMT,Wal-Mart Stores,Consumer Staples," $30,721,000,000 "," $5,063,167,606 ",1
+PSX,Phillips 66,Energy," $5,311,000,000 "," $4,485,798,994 ",7
+COP,ConocoPhillips,Energy," $5,328,000,000 "," $4,485,798,994 ",6
+VLO,Valero Energy,Energy," $5,401,000,000 "," $4,485,798,994 ",5
+MPC,Marathon Petroleum,Energy," $5,978,000,000 "," $4,485,798,994 ",4
+KMI,Kinder Morgan,Energy," $5,981,000,000 "," $4,485,798,994 ",3
+CVX,Chevron Corp.,Energy," $28,877,000,000 "," $4,485,798,994 ",2
+XOM,Exxon Mobil Corp.,Energy," $39,052,000,000 "," $4,485,798,994 ",1
+AJG,Arthur J. Gallagher & Co.,Financials," $888,000,000 "," $529,067,588 ",16
+HRB,Block H&R,Financials," $894,754,000 "," $529,067,588 ",15
+NDAQ,"Nasdaq, Inc.",Financials," $1,212,000,000 "," $529,067,588 ",14
+MCO,Moody's Corp,Financials," $1,238,000,000 "," $529,067,588 ",13
+AMG,Affiliated Managers Group Inc,Financials," $1,261,400,000 "," $529,067,588 ",12
+WLTW,Willis Towers Watson,Financials," $1,440,000,000 "," $529,067,588 ",11
+IVZ,Invesco Ltd.,Financials," $1,606,200,000 "," $529,067,588 ",10
+AON,Aon plc,Financials," $1,858,000,000 "," $529,067,588 ",9
+LUK,Leucadia National Corp.,Financials," $2,201,336,000 "," $529,067,588 ",8
+TROW,T. Rowe Price Group,Financials," $2,281,400,000 "," $529,067,588 ",7
+BEN,Franklin Resources,Financials," $2,711,300,000 "," $529,067,588 ",6
+CME,CME Group Inc.,Financials," $2,851,800,000 "," $529,067,588 ",5
+SPGI,"S&P Global, Inc.",Financials," $3,021,000,000 "," $529,067,588 ",4
+ICE,Intercontinental Exchange,Financials," $3,103,000,000 "," $529,067,588 ",3
+MMC,Marsh & McLennan,Financials," $3,236,000,000 "," $529,067,588 ",2
+BLK,BlackRock,Financials," $5,684,000,000 "," $529,067,588 ",1
+AET,Aetna Inc,Health Care," $4,139,000,000 "," $3,642,433,186 ",17
+DHR,Danaher Corp.,Health Care," $4,339,800,000 "," $3,642,433,186 ",16
+TMO,Thermo Fisher Scientific,Health Care," $4,751,300,000 "," $3,642,433,186 ",15
+BMY,Bristol-Myers Squibb,Health Care," $5,170,000,000 "," $3,642,433,186 ",14
+CELG,Celgene Corp.,Health Care," $5,233,000,000 "," $3,642,433,186 ",13
+ABT,Abbott Laboratories,Health Care," $5,744,000,000 "," $3,642,433,186 ",12
+BIIB,Biogen Inc.,Health Care," $6,511,400,000 "," $3,642,433,186 ",11
+MCK,McKesson Corp.,Health Care," $7,232,000,000 "," $3,642,433,186 ",10
+ESRX,Express Scripts,Health Care," $7,309,300,000 "," $3,642,433,186 ",9
+MRK,Merck & Co.,Health Care," $8,715,000,000 "," $3,642,433,186 ",8
+MDT,Medtronic plc,Health Care," $9,204,000,000 "," $3,642,433,186 ",7
+ABBV,AbbVie Inc.,Health Care," $10,310,000,000 "," $3,642,433,186 ",6
+AMGN,Amgen Inc,Health Care," $11,945,000,000 "," $3,642,433,186 ",5
+UNH,United Health Group Inc.,Health Care," $17,454,000,000 "," $3,642,433,186 ",4
+GILD,Gilead Sciences,Health Care," $17,590,000,000 "," $3,642,433,186 ",3
+PFE,Pfizer Inc.,Health Care," $20,569,000,000 "," $3,642,433,186 ",2
+JNJ,Johnson & Johnson,Health Care," $22,430,000,000 "," $3,642,433,186 ",1
+PCAR,PACCAR Inc.,Industrials," $3,619,200,000 "," $2,998,454,375 ",23
+RTN,Raytheon Co.,Industrials," $3,868,000,000 "," $2,998,454,375 ",22
+NOC,Northrop Grumman Corp.,Industrials," $3,884,000,000 "," $2,998,454,375 ",21
+WM,Waste Management Inc.,Industrials," $3,896,000,000 "," $2,998,454,375 ",20
+ITW,Illinois Tool Works,Industrials," $3,924,000,000 "," $2,998,454,375 ",19
+DE,Deere & Co.,Industrials," $4,053,300,000 "," $2,998,454,375 ",18
+ETN,Eaton Corporation,Industrials," $4,253,000,000 "," $2,998,454,375 ",17
+JCI,Johnson Controls International,Industrials," $4,295,000,000 "," $2,998,454,375 ",16
+LUV,Southwest Airlines,Industrials," $4,533,000,000 "," $2,998,454,375 ",15
+GD,General Dynamics,Industrials," $4,618,000,000 "," $2,998,454,375 ",14
+NSC,Norfolk Southern Corp.,Industrials," $4,737,000,000 "," $2,998,454,375 ",13
+CSX,CSX Corp.,Industrials," $5,003,000,000 "," $2,998,454,375 ",12
+AAL,American Airlines Group,Industrials," $5,761,000,000 "," $2,998,454,375 ",11
+UAL,United Continental Holdings,Industrials," $5,929,000,000 "," $2,998,454,375 ",10
+LMT,Lockheed Martin Corp.,Industrials," $7,115,000,000 "," $2,998,454,375 ",9
+UPS,United Parcel Service,Industrials," $7,919,000,000 "," $2,998,454,375 ",8
+FDX,FedEx Corporation,Industrials," $8,062,000,000 "," $2,998,454,375 ",7
+CAT,Caterpillar Inc.,Industrials," $8,136,000,000 "," $2,998,454,375 ",6
+HON,Honeywell Int'l Inc.,Industrials," $8,333,000,000 "," $2,998,454,375 ",5
+DAL,Delta Air Lines Inc.,Industrials," $8,348,000,000 "," $2,998,454,375 ",4
+MMM,3M Company,Industrials," $9,048,000,000 "," $2,998,454,375 ",3
+UTX,United Technologies,Industrials," $10,584,000,000 "," $2,998,454,375 ",2
+BA,Boeing Company,Industrials," $12,476,000,000 "," $2,998,454,375 ",1
+TXN,Texas Instruments,Information Technology," $7,013,000,000 "," $6,161,996,057 ",14
+AVGO,Broadcom,Information Technology," $7,016,000,000 "," $6,161,996,057 ",13
+MA,Mastercard Inc.,Information Technology," $7,113,000,000 "," $6,161,996,057 ",12
+MU,Micron Technology,Information Technology," $12,541,000,000 "," $6,161,996,057 ",11
+V,Visa Inc.,Information Technology," $13,086,000,000 "," $6,161,996,057 ",10
+CSCO,Cisco Systems,Information Technology," $15,447,000,000 "," $6,161,996,057 ",9
+ORCL,Oracle Corp.,Information Technology," $16,545,000,000 "," $6,161,996,057 ",8
+IBM,International Business Machines,Information Technology," $16,557,000,000 "," $6,161,996,057 ",7
+FB,"Facebook, Inc.",Information Technology," $23,624,000,000 "," $6,161,996,057 ",6
+INTC,Intel Corp.,Information Technology," $26,247,000,000 "," $6,161,996,057 ",5
+GOOG,Alphabet Inc Class C,Information Technology," $32,714,000,000 "," $6,161,996,057 ",4
+GOOGL,Alphabet Inc Class A,Information Technology," $34,217,000,000 "," $6,161,996,057 ",3
+MSFT,Microsoft Corp.,Information Technology," $41,079,000,000 "," $6,161,996,057 ",2
+AAPL,Apple Inc.,Information Technology," $79,386,000,000 "," $6,161,996,057 ",1
+APD,Air Products & Chemicals Inc,Materials," $2,542,500,000 "," $2,284,347,560 ",10
+PPG,PPG Industries,Materials," $2,585,000,000 "," $2,284,347,560 ",9
+NUE,Nucor Corp.,Materials," $2,648,729,000 "," $2,284,347,560 ",8
+ECL,Ecolab Inc.,Materials," $2,848,600,000 "," $2,284,347,560 ",7
+IP,International Paper,Materials," $3,004,000,000 "," $2,284,347,560 ",6
+PX,Praxair Inc.,Materials," $3,632,000,000 "," $2,284,347,560 ",5
+MON,Monsanto Co.,Materials," $4,217,000,000 "," $2,284,347,560 ",4
+DWDP,DowDuPont,Materials," $5,250,000,000 "," $2,284,347,560 ",3
+FCX,Freeport-McMoRan Inc.,Materials," $5,347,000,000 "," $2,284,347,560 ",2
+LYB,LyondellBasell,Materials," $6,851,000,000 "," $2,284,347,560 ",1
+HCP,HCP Inc.,Real Estate," $1,412,684,000 "," $1,384,264,667 ",14
+BXP,Boston Properties,Real Estate," $1,546,846,000 "," $1,384,264,667 ",13
+HST,Host Hotels & Resorts,Real Estate," $1,547,000,000 "," $1,384,264,667 ",12
+CBG,CBRE Group,Real Estate," $1,652,961,000 "," $1,384,264,667 ",11
+EQIX,Equinix,Real Estate," $1,687,152,000 "," $1,384,264,667 ",10
+EQR,Equity Residential,Real Estate," $1,710,686,000 "," $1,384,264,667 ",9
+GGP,General Growth Properties Inc.,Real Estate," $1,740,540,000 "," $1,384,264,667 ",8
+HCN,Welltower Inc.,Real Estate," $1,908,253,000 "," $1,384,264,667 ",7
+PSA,Public Storage,Real Estate," $1,924,803,000 "," $1,384,264,667 ",6
+VTR,Ventas Inc,Real Estate," $1,935,931,000 "," $1,384,264,667 ",5
+CCI,Crown Castle International Corp.,Real Estate," $2,292,600,000 "," $1,384,264,667 ",4
+PLD,Prologis,Real Estate," $2,969,194,000 "," $1,384,264,667 ",3
+AMT,American Tower Corp A,Real Estate," $3,792,383,000 "," $1,384,264,667 ",2
+SPG,Simon Property Group Inc,Real Estate," $4,411,515,000 "," $1,384,264,667 ",1
+VZ,Verizon Communications,Telecommunication Services," $45,745,000,000 "," $33,658,333,333 ",2
+T,AT&T Inc,Telecommunication Services," $49,653,000,000 "," $33,658,333,333 ",1
+PEG,Public Serv. Enterprise Inc.,Utilities," $3,613,000,000 "," $3,485,105,000 ",13
+SRE,Sempra Energy,Utilities," $3,763,000,000 "," $3,485,105,000 ",12
+XEL,Xcel Energy Inc,Utilities," $3,885,828,000 "," $3,485,105,000 ",11
+PPL,PPL Corp.,Utilities," $3,937,000,000 "," $3,485,105,000 ",10
+EIX,Edison Int'l,Utilities," $4,284,000,000 "," $3,485,105,000 ",9
+ED,Consolidated Edison,Utilities," $4,288,000,000 "," $3,485,105,000 ",8
+AEP,American Electric Power,Utilities," $4,450,800,000 "," $3,485,105,000 ",7
+SO,Southern Co.,Utilities," $6,012,000,000 "," $3,485,105,000 ",6
+D,Dominion Energy,Utilities," $6,428,000,000 "," $3,485,105,000 ",5
+PCG,PG&E Corp.,Utilities," $6,471,000,000 "," $3,485,105,000 ",4
+EXC,Exelon Corp.,Utilities," $8,548,000,000 "," $3,485,105,000 ",3
+NEE,NextEra Energy,Utilities," $9,018,000,000 "," $3,485,105,000 ",2
+DUK,Duke Energy,Utilities," $9,895,000,000 "," $3,485,105,000 ",1

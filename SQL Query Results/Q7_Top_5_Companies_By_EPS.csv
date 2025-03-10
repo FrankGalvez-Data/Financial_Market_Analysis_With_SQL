@@ -1,0 +1,54 @@
+sector,symbol,name,earnings_per_share,eps_rank
+"Consumer Discretionary",AZO,"AutoZone Inc",44.09,1
+"Consumer Discretionary",PCLN,"Priceline.com Inc",42.66,2
+"Consumer Discretionary",CHTR,"Charter Communications",34.08,3
+"Consumer Discretionary",MHK,"Mohawk Industries",12.48,4
+"Consumer Discretionary",ORLY,"O'Reilly Automotive",10.73,5
+"Consumer Staples",TAP,"Molson Coors Brewing Company",9.27,1
+"Consumer Staples",STZ,"Constellation Brands",8.71,2
+"Consumer Staples",KMB,Kimberly-Clark,6.41,3
+"Consumer Staples",COST,"Costco Wholesale Corp.",6.09,4
+"Consumer Staples",PG,"Procter & Gamble",5.60,5
+Energy,PSX,"Phillips 66",9.93,1
+Energy,VLO,"Valero Energy",9.24,2
+Energy,MPC,"Marathon Petroleum",6.85,3
+Energy,ANDV,Andeavor,6.13,4
+Energy,CVX,"Chevron Corp.",4.85,5
+Financials,BLK,BlackRock,30.30,1
+Financials,RE,"Everest Re Group Ltd.",23.71,2
+Financials,AMG,"Affiliated Managers Group Inc",12.07,3
+Financials,CME,"CME Group Inc.",11.94,4
+Financials,AFL,"AFLAC Inc",11.01,5
+"Health Care",AGN,"Allergan, Plc",38.35,1
+"Health Care",MCK,"McKesson Corp.",22.74,2
+"Health Care",ANTM,"Anthem Inc.",14.36,3
+"Health Care",MTD,"Mettler Toledo",14.24,4
+"Health Care",BIIB,"Biogen Inc.",11.94,5
+Industrials,NSC,"Norfolk Southern Corp.",18.73,1
+Industrials,URI,"United Rentals, Inc.",15.72,2
+Industrials,BA,"Boeing Company",13.47,3
+Industrials,HII,"Huntington Ingalls Industries",12.15,4
+Industrials,NOC,"Northrop Grumman Corp.",11.47,5
+"Information Technology",GOOGL,"Alphabet Inc Class A",22.27,1
+"Information Technology",GOOG,"Alphabet Inc Class C",22.27,1
+"Information Technology",ADS,"Alliance Data Systems",14.13,3
+"Information Technology",LRCX,"Lam Research",9.22,4
+"Information Technology",AAPL,"Apple Inc.",9.20,5
+Materials,SHW,Sherwin-Williams,18.61,1
+Materials,APD,"Air Products & Chemicals Inc",13.66,2
+Materials,LYB,LyondellBasell,12.25,3
+Materials,EMN,"Eastman Chemical",10.12,4
+Materials,PKG,"Packaging Corporation of America",7.07,5
+"Real Estate",PSA,"Public Storage",6.81,1
+"Real Estate",AVB,"AvalonBay Communities, Inc.",6.36,2
+"Real Estate",ESS,"Essex Property Trust, Inc.",6.27,3
+"Real Estate",SPG,"Simon Property Group Inc",6.25,4
+"Real Estate",VNO,"Vornado Realty Trust",4.33,5
+"Telecommunication Services",VZ,"Verizon Communications",7.36,1
+"Telecommunication Services",T,"AT&T Inc",4.76,2
+"Telecommunication Services",CTL,"CenturyLink Inc",1.16,3
+Utilities,NEE,"NextEra Energy",11.39,1
+Utilities,SRE,"Sempra Energy",5.45,2
+Utilities,D,"Dominion Energy",4.91,3
+Utilities,DTE,"DTE Energy Co.",4.82,4
+Utilities,SCG,"SCANA Corp",4.16,5

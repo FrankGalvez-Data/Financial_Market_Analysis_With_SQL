@@ -1,0 +1,12 @@
+sector,total_stocks,dividend_paying_stocks,dividend_stocks_percentage
+Materials,25,25,100.00
+"Telecommunication Services",3,3,100.00
+"Consumer Staples",33,32,96.97
+Utilities,28,27,96.43
+Financials,68,65,95.59
+"Real Estate",33,31,93.94
+Industrials,64,58,90.63
+Energy,30,27,90.00
+"Consumer Discretionary",82,62,75.61
+"Information Technology",70,47,67.14
+"Health Care",59,34,57.63

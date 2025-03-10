@@ -1,0 +1,54 @@
+sector,symbol,name, price_to_book ,pb_rank
+Consumer Discretionary,LB,L Brands Inc.," $1,403.38 ",1
+Consumer Discretionary,YUM,Yum! Brands Inc, $212.08 ,2
+Consumer Discretionary,MCD,McDonald's Corp., $146.07 ,3
+Consumer Discretionary,AZO,AutoZone Inc, $136.23 ,4
+Consumer Discretionary,HD,Home Depot, $84.08 ,5
+Consumer Staples,PM,Philip Morris International," $1,318.70 ",1
+Consumer Staples,CL,Colgate-Palmolive, $236.42 ,2
+Consumer Staples,KMB,Kimberly-Clark, $151.66 ,3
+Consumer Staples,HSY,The Hershey Company, $25.64 ,4
+Consumer Staples,CLX,The Clorox Company, $21.62 ,5
+Energy,HAL,Halliburton Co., $4.74 ,1
+Energy,EOG,EOG Resources, $4.55 ,2
+Energy,NFX,Newfield Exploration Co, $4.51 ,3
+Energy,XEC,Cimarex Energy, $4.28 ,4
+Energy,COG,Cabot Oil & Gas, $4.21 ,5
+Financials,HRB,Block H&R, $205.41 ,1
+Financials,MCO,Moody's Corp, $73.84 ,2
+Financials,SPGI,"S&P Global, Inc.", $50.56 ,3
+Financials,AON,Aon plc, $6.78 ,4
+Financials,MMC,Marsh & McLennan, $5.85 ,5
+Health Care,IDXX,IDEXX Laboratories, $196.21 ,1
+Health Care,MTD,Mettler Toledo, $31.69 ,2
+Health Care,ABBV,AbbVie Inc., $26.14 ,3
+Health Care,VRTX,Vertex Pharmaceuticals Inc, $21.91 ,4
+Health Care,ZTS,Zoetis, $18.09 ,5
+Industrials,BA,Boeing Company, $182.86 ,1
+Industrials,UPS,United Parcel Service, $64.70 ,2
+Industrials,LMT,Lockheed Martin Corp., $45.55 ,3
+Industrials,ALLE,Allegion, $20.48 ,4
+Industrials,MAS,Masco Corp., $11.93 ,5
+Information Technology,ADSK,Autodesk Inc, $224.13 ,1
+Information Technology,INTU,Intuit Inc., $33.50 ,2
+Information Technology,NFLX,Netflix Inc., $30.80 ,3
+Information Technology,MA,Mastercard Inc., $26.93 ,4
+Information Technology,AMD,Advanced Micro Devices Inc, $21.47 ,5
+Materials,SHW,Sherwin-Williams, $13.42 ,1
+Materials,SEE,Sealed Air, $10.55 ,2
+Materials,AVY,Avery Dennison Corp, $8.83 ,3
+Materials,MON,Monsanto Co., $7.96 ,4
+Materials,PX,Praxair Inc., $6.88 ,5
+Real Estate,SBAC,SBA Communications, $91.04 ,1
+Real Estate,SPG,Simon Property Group Inc, $13.24 ,2
+Real Estate,AMT,American Tower Corp A, $9.22 ,3
+Real Estate,PSA,Public Storage, $6.56 ,4
+Real Estate,EQIX,Equinix, $5.14 ,5
+Telecommunication Services,VZ,Verizon Communications, $7.96 ,1
+Telecommunication Services,T,AT&T Inc, $1.80 ,2
+Telecommunication Services,CTL,CenturyLink Inc, $1.39 ,3
+Utilities,NRG,NRG Energy, $6.73 ,1
+Utilities,CNP,CenterPoint Energy, $3.21 ,2
+Utilities,D,Dominion Energy, $2.96 ,3
+Utilities,NEE,NextEra Energy, $2.75 ,4
+Utilities,CMS,CMS Energy, $2.65 ,5

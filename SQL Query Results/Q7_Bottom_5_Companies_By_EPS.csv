@@ -1,0 +1,56 @@
+sector,symbol,name,earnings_per_share,eps_rank
+"Consumer Discretionary",MAT,"Mattel Inc.",-3.06,1
+"Consumer Discretionary",NWS,"News Corp. Class B",-1.28,2
+"Consumer Discretionary",NWSA,"News Corp. Class A",-1.28,2
+"Consumer Discretionary",RL,"Polo Ralph Lauren Corp.",-1.19,4
+"Consumer Discretionary",UA,"Under Armour Class C",0.45,5
+"Consumer Discretionary",UAA,"Under Armour Class A",0.45,5
+"Consumer Staples",COTY,"Coty, Inc",-0.63,1
+"Consumer Staples",MNST,"Monster Beverage",1.19,2
+"Consumer Staples",CAG,"Conagra Brands",1.46,3
+"Consumer Staples",KO,"Coca-Cola Company (The)",1.49,4
+"Consumer Staples",HRL,"Hormel Foods Corp.",1.57,5
+Energy,HES,"Hess Corporation",-19.94,1
+Energy,CXO,"Concho Resources",-11.04,2
+Energy,DVN,"Devon Energy Corp.",-6.89,3
+Energy,NFX,"Newfield Exploration Co",-6.50,4
+Energy,CHK,"Chesapeake Energy",-6.44,5
+Financials,BHF,"Brighthouse Financial Inc",-24.62,1
+Financials,C,"Citigroup Inc.",-3.10,2
+Financials,XL,"XL Capital",-2.24,3
+Financials,AIG,"American International Group, Inc.",-0.76,4
+Financials,LUK,"Leucadia National Corp.",0.33,5
+"Health Care",EVHC,"Envision Healthcare",-0.48,1
+"Health Care",LLY,"Lilly (Eli) & Co.",-0.20,2
+"Health Care",BSX,"Boston Scientific",0.07,3
+"Health Care",WAT,"Waters Corporation",0.19,4
+"Health Care",ABT,"Abbott Laboratories",0.26,5
+Industrials,GE,"General Electric",-0.72,1
+Industrials,INFO,"IHS Markit Ltd.",1.00,2
+Industrials,FLS,"Flowserve Corporation",1.12,3
+Industrials,TXT,"Textron Inc.",1.14,4
+Industrials,CAT,"Caterpillar Inc.",1.26,5
+"Information Technology",ADSK,"Autodesk Inc",-2.61,1
+"Information Technology",MSI,"Motorola Solutions Inc.",-1.08,2
+"Information Technology",EBAY,"eBay Inc.",-1.07,3
+"Information Technology",DXC,"DXC Technology",-0.89,4
+"Information Technology",GLW,"Corning Inc.",-0.78,5
+Materials,CF,"CF Industries Holdings Inc",-1.20,1
+Materials,NEM,"Newmont Mining Corporation",-1.18,2
+Materials,BLL,"Ball Corp",0.85,3
+Materials,MOS,"The Mosaic Company",0.85,3
+Materials,FCX,"Freeport-McMoRan Inc.",1.24,5
+"Real Estate",IRM,"Iron Mountain Incorporated",0.46,1
+"Real Estate",SBAC,"SBA Communications",0.62,2
+"Real Estate",WY,"Weyerhaeuser Corp.",0.77,3
+"Real Estate",KIM,"Kimco Realty",0.80,4
+"Real Estate",SLG,"SL Green Realty",0.88,5
+"Real Estate",DRE,"Duke Realty Corp",0.88,5
+"Telecommunication Services",CTL,"CenturyLink Inc",1.16,1
+"Telecommunication Services",T,"AT&T Inc",4.76,2
+"Telecommunication Services",VZ,"Verizon Communications",7.36,3
+Utilities,FE,"FirstEnergy Corp",-14.49,1
+Utilities,ETR,"Entergy Corp.",-3.26,2
+Utilities,NRG,"NRG Energy",-2.23,3
+Utilities,AES,"AES Corp",-1.72,4
+Utilities,CNP,"CenterPoint Energy",1.00,5
